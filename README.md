@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SrikantaPrasadrajeUrs
+# 👋 Hi, I’m @SrikantaprasadrajeUrs
 
 ## 👀 Interests
 I’m passionate about **Coding**.
