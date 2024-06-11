@@ -1,5 +1,12 @@
-- 👋 Hi, I’m @SrikantaPrasadrajeUrs
-- 👀 I’m interested in <h1> Coding </h1>
-- 🌱 I’m currently learning Flutter full-stack developement
-- 📫 How to reach me => srikantaprasadrajeurs456@gmail.com
+# 👋 Hi, I’m @SrikantaPrasadrajeUrs
+
+## 👀 Interests
+I’m passionate about **Coding**.
+
+## 🌱 Current Learning
+I'm currently delving into **Flutter Full-Stack Development**.
+
+## 📫 Contact Me
+You can reach me at [srikantaprasadrajeurs456@gmail.com](mailto:srikantaprasadrajeurs456@gmail.com).
+
 
