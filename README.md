@@ -1,12 +1,10 @@
-👋 Hi, I’m @SrikantaprasadrajeUrs
+<span style="font-size: 2em;">👋 Hi, I’m @SrikantaprasadrajeUrs</span>
+<span style="font-size: 1.5em;">👀 Interests</span>
+<span style="font-size: 1.5em;">I’m passionate about Coding.</span>
 
-👀 Interests
-I’m passionate about Coding.
+<span style="font-size: 1.5em;">🌱 Current Learning</span>
+<span style="font-size: 1.5em;">I'm currently delving into Flutter Full-Stack Development.</span>
 
-🌱 Current Learning
-I'm currently delving into Flutter Full-Stack Development.
-
-📫 Contact Me
-You can reach me at srikantaprasadrajeurs456@gmail.com or connect with me on LinkedIn.
-
+<span style="font-size: 1.5em;">📫 Contact Me</span>
+<span style="font-size: 1.5em;">You can reach me at srikantaprasadrajeurs456@gmail.com or connect with me on LinkedIn.</span>
 
