@@ -1,12 +1,31 @@
-<span style="font-size: 2em;">👋 Hi, I’m <span style="color: #1a73e8;">@SrikantaprasadrajeUrs</span></span>
+<h1 align="center">Hi 👋, I'm SrikantaprasadrajeUrs</h1>
+<h3 align="center">A passionate Flutter developer from India</h3>
 
-<br/>
-<span style="font-size: 1.5em;">👀 Interests</span>
-<span style="font-size: 1.5em;">I’m passionate about <span style="background-color: #ffeb3b;">Coding</span>.</span>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srikantaprasadrajeurs&label=Profile%20views&color=0e75b6&style=flat" alt="srikantaprasadrajeurs" /> </p>
 
-<span style="font-size: 1.5em;">🌱 Current Learning</span>
-<span style="font-size: 1.5em;">I'm currently delving into <span style="background-color: #ffeb3b;">Flutter Full-Stack Development</span>.</span>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikantaprasadrajeurs" alt="srikantaprasadrajeurs" /></a> </p>
 
-<span style="font-size: 1.5em;">📫 Contact Me</span>
-<span style="font-size: 1.5em;">You can reach me at <a href="mailto:srikantaprasadrajeurs456@gmail.com" style="color: #1a73e8;">srikantaprasadrajeurs456@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/srikantaprasadraje-urs-83bb11286/" style="color: #1a73e8;">LinkedIn</a>.</span>
+- 🔭 I’m currently working on **Flutter chat app**
 
+- 🌱 I’m currently learning **Flutter full-stack developement**
+
+- 👯 I’m looking to collaborate on **Flutter - projects**
+
+- 💬 Ask me about **Flutter,Dart,Java**
+
+- 📫 How to reach me **srikantaprasadrajeurs456@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/srikantaprasadraje urs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikantaprasadraje urs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srikantaprasadrajeurs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srikantaprasadrajeurs" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srikantaprasadrajeurs&show_icons=true&locale=en&layout=compact" alt="srikantaprasadrajeurs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikantaprasadrajeurs&show_icons=true&locale=en" alt="srikantaprasadrajeurs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikantaprasadrajeurs&" alt="srikantaprasadrajeurs" /></p>
