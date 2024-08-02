@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/srikantaprasadraje urs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srikantaprasadraje urs" height="30" width="40" /></a>
 <a href="https://medium.com/@srikantarajeurs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srikantarajeurs" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srikanta urs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srikanta urs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srikantaprasadrajeurs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srikantaprasadrajeurs" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/srikantarajeurs222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srikantaprasadrajeurs" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srikantaprasa9b5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srikantaprasa9b5p" height="30" width="40" /></a>
 </p>
 
