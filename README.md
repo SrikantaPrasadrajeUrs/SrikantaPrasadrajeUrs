@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm SrikantaprasadrajeUrs</h1>
+<h1 style="font-size: 48px; text-align: center;">Hi 👋, I'm Srikantaprasadraje Urs</h1>
+
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikantaprasadrajeurs&label=Profile%20views&color=0e75b6&style=flat" alt="srikantaprasadrajeurs" /> </p>
