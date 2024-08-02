@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 48px; text-align: center; ">Hi 👋, I'm Srikantaprasadraje Urs</h1>
+<h1 align="center" style="font-size: 48px; font-weight: bold; text-align: center; ">Hi 👋, I'm Srikantaprasadraje Urs</h1>
 
 <h3 align="center">A passionate Flutter developer from India</h3>
 
