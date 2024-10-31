@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikantaprasadrajeurs" alt="srikantaprasadrajeurs" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter chat app**
+- 🔭 I'm currently developing the **CommUnity app**, where users receive personalized posts tailored to their interests
 
 - 🌱 I’m currently learning **Flutter full-stack developement**
 
