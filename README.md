@@ -37,6 +37,8 @@
 </p>
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/Srikanta_urs?theme=dark&font=Aldrich&ext=heatmap)
+---
 
 ### 🛠️ Languages and Tools:
 <p align="center">
