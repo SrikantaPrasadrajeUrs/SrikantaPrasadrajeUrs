@@ -18,7 +18,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **Flappy Game**: Building with flutter and flame game engine.
+- 🔭 Currently working on **CommUnity App**: Personalized posts tailored to user interests.
 - 🌱 Exploring **Full-Stack Development** & diving into cutting-edge technologies.
 - 👯 Open to collaborating on **Flutter projects**.
 - 💬 Ask me about **Flutter, Dart, Java**.
@@ -29,10 +29,10 @@
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/srikantaprasadrajeurs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Srikanta_urs/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Challenges-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -40,7 +40,9 @@
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Srikanta_urs?theme=dark&font=Aldrich&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Srikanta_urs/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Srikanta_urs?theme=dark&font=Aldrich&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -62,3 +64,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srikantaprasadrajeurs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
