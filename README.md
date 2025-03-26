@@ -18,7 +18,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **CommUnity App**: Personalized posts tailored to user interests.
+- 🔭 Currently working on **Flappy Game**: Building with flutter and flame game engine.
 - 🌱 Exploring **Full-Stack Development** & diving into cutting-edge technologies.
 - 👯 Open to collaborating on **Flutter projects**.
 - 💬 Ask me about **Flutter, Dart, Java**.
