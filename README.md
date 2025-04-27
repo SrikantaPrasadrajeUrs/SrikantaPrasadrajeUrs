@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30px">, I'm Srikantaprasadraje Urs</h1>
 
-<h3 align="center">🚀 Passionate Flutter Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">🚀 Passionate Software Developer</h3>
 
 <p align="center">
   <a href="https://srikantaprasadrajeurs.github.io/" target="_blank">
