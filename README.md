@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 - 🔭 Currently working on **CommUnity App**: Personalized posts tailored to user interests.
 - 🌱 Exploring **Full-Stack Development** & diving into cutting-edge technologies.
-- 👯 Open to collaborating on **Flutter projects**.
+- 👯 Open to collaborating on **<Coding/> projects**.
 - 💬 Ask me about **Flutter, Dart, Java**.
 - 📫 Reach me at **srikantaprasadrajeurs456@gmail.com**.
 
